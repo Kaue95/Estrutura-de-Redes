@@ -1,0 +1,13 @@
+10 computadores - 40mts²
+
+metros de cabeamento -> 12 metros de cabo 
+conectores -> 25 conectores - caso aja danificamento na montagem.
+equipamentos -> Switch 16 portas 
+internet(velocidade) -> 20mb
+          
+	c | c
+	c | c 
+	c | c
+	c | c
+	c | c
+	
